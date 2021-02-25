@@ -18,5 +18,5 @@ elif wins[user_choice] == computer_choice:
   print("you chose {}. The computer chose {}.".format(options[user_choice], options[computer_choice]))
   print("Yay! You won!")
 else:
-  print("you chose {}. The computer chose {}".format(options[user_choice], options[computer_choice]))
+  print("you chose {}. The computer chose {}.".format(options[user_choice], options[computer_choice]))
   print("Sorry. You lost.")
